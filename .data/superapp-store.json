@@ -1,0 +1,38 @@
+{
+  "workers": [],
+  "jobs": [],
+  "expediterRequests": [],
+  "consultations": [],
+  "members": [
+    {
+      "id": "AV-MBR-3776",
+      "fullName": "Test Student",
+      "contact": "+251911009988",
+      "passwordHash": "acf63f4cd5819b002f3dbc4b4ef6b50f23abf47e0159f158c2716caf642abefe",
+      "region": "Addis Ababa",
+      "role": "Student",
+      "sharePhone": false,
+      "verifiedBuyer": false,
+      "points": 20,
+      "downloadsCount": 0,
+      "purchasesCount": 0,
+      "referralsCount": 0,
+      "helpfulChatsCount": 0,
+      "joinedAt": "2026-11-15T05:27:07.839Z"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "msg-1794720427882",
+      "memberId": "AV-TEST",
+      "authorName": "Test Student",
+      "authorRegion": "Addis Ababa",
+      "authorRole": "Student",
+      "verifiedBuyer": true,
+      "room": "trust",
+      "message": "Testing Telebirr instant unlock verification!",
+      "helpfulCount": 0,
+      "createdAt": "2026-11-15T05:27:07.882Z"
+    }
+  ]
+}

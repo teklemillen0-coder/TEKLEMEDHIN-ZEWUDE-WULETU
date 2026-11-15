@@ -1,0 +1,6 @@
+{
+  "name": "AddisVault — Ethiopian Digital Marketplace",
+  "description": "Installable Ethiopian digital marketplace PWA with Telebirr & CBE direct checkout, 26 digital products, and 5-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
